@@ -1,0 +1,7 @@
+C:\Users\Thinkpad\source\repos\LLang\LLang\bin\Release\LLang.exe.config
+C:\Users\Thinkpad\source\repos\LLang\LLang\bin\Release\LLang.exe
+C:\Users\Thinkpad\source\repos\LLang\LLang\bin\Release\LLang.pdb
+C:\Users\Thinkpad\source\repos\LLang\LLang\obj\Release\LLang.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\LLang\LLang\obj\Release\LLang.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\LLang\LLang\obj\Release\LLang.exe
+C:\Users\Thinkpad\source\repos\LLang\LLang\obj\Release\LLang.pdb

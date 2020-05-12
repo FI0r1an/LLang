@@ -1,0 +1,5 @@
+function split(str, seq)
+	local t = {}
+	str.gsub("[^" + seq + "$]+", function (w) table.insert(t, w) end)
+	return t
+end
